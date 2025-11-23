@@ -85,4 +85,3 @@ We welcome contributions! If you have ideas for enhancements or find any issues,
 
 
 Happy Coding! 🚀
-# Netflix-Clone-Project
